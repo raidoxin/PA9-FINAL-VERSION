@@ -1,0 +1,9 @@
+﻿  document.cpp
+c:\users\nathan\desktop\kwakakwrakgnkal\kwakakwrakgnkal\document.cpp(133): warning C4018: '<': signed/unsigned mismatch
+c:\users\nathan\desktop\kwakakwrakgnkal\kwakakwrakgnkal\document.cpp(148): warning C4018: '<': signed/unsigned mismatch
+c:\users\nathan\desktop\kwakakwrakgnkal\kwakakwrakgnkal\document.cpp(168): warning C4018: '<': signed/unsigned mismatch
+c:\users\nathan\desktop\kwakakwrakgnkal\kwakakwrakgnkal\document.cpp(180): warning C4018: '<': signed/unsigned mismatch
+c:\users\nathan\desktop\kwakakwrakgnkal\kwakakwrakgnkal\document.cpp(211): warning C4018: '<': signed/unsigned mismatch
+c:\users\nathan\desktop\kwakakwrakgnkal\kwakakwrakgnkal\document.cpp(224): warning C4018: '<': signed/unsigned mismatch
+  KWAKAKWRAKGNKAL.vcxproj -> C:\Users\Nathan\Desktop\KWAKAKWRAKGNKAL\Debug\KWAKAKWRAKGNKAL.exe
+  KWAKAKWRAKGNKAL.vcxproj -> C:\Users\Nathan\Desktop\KWAKAKWRAKGNKAL\Debug\KWAKAKWRAKGNKAL.pdb (Full PDB)

@@ -1,0 +1,13 @@
+﻿  visa.cpp
+c:\users\nathan\desktop\kwakakwrakgnkal\kwakakwrakgnkal\document.h(9): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  orders.cpp
+c:\users\nathan\desktop\kwakakwrakgnkal\kwakakwrakgnkal\document.h(9): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  main.cpp
+c:\users\nathan\desktop\kwakakwrakgnkal\kwakakwrakgnkal\document.h(9): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  gamedata.cpp
+c:\users\nathan\desktop\kwakakwrakgnkal\kwakakwrakgnkal\document.h(9): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  document.cpp
+c:\users\nathan\desktop\kwakakwrakgnkal\kwakakwrakgnkal\document.h(9): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  IDcard.cpp
+c:\users\nathan\desktop\kwakakwrakgnkal\kwakakwrakgnkal\document.h(9): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Generating Code...
